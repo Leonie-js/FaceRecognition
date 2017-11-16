@@ -5,39 +5,39 @@ I made an interactive tour (in dutch) where you could make your own smoothie. Bu
 In this smoothie test you had to answer some question by nodding your head.
 
 <b> The start (StartState) </b>
-![StartState](https://imgur.com/a/pXhkU)
+![StartState](https://i.imgur.com/DKVF1vz.jpg)
 
 This is the first state and here the logo of project is shown. At the same time is a distance sensor under the screen so that if someone walks by, it will go to the next state. 
 
 <b> Explanation (MovieState) </b>
-![MovieState](https://ibb.co/muhfSm)
+![MovieState](https://i.imgur.com/paBn9jw.jpg)
 
 In this state the program will tell the user what he or she has to do. By pressing enter the user can go to the next state.
 
 <b> Answering questions (NoddingState) </b>
-![NoddingState](https://imgur.com/a/4YK3K)
+![NoddingState](https://i.imgur.com/AR83qn7.jpg)
 
 At this point the questions will be received from the database and shown to the user. The user can then nod his head to say yes or no.
 
-![AnswerNo](https://imgur.com/a/JGCFW)
+![AnswerNo](https://i.imgur.com/kTOlmLw.jpg)
 This is how it will look like if the user nods no.
 
-![AnswerYes](https://imgur.com/a/61se6)
+![AnswerYes](https://i.imgur.com/82mDETK.jpg)
 This is how it will look like if the user nods yes.
 
-![Problem](https://imgur.com/a/TNqIv)
+![Problem](https://i.imgur.com/7fL3art.jpg)
 There can also be a message been shown to the user that he or she has to change his position to the screen.
 
 When the user has nodded an answer he or she has to wait for 5 seconds to confirm the answer. In those 5 seconds he or she can still change the answer. The time is shown on the right down side.
 When all the questions are answered the program automatically goes to the next state. 
 
 <b> Result Smoothie (ActiveState) </b>
-![ActiveState](https://imgur.com/a/mk6mE)
+![ActiveState](https://i.imgur.com/vS9HXyY.jpg)
 
 The smoothie then gets chosen and shown to the user. The user has to press enter to go to the next state.
 
 <b> Fill in data (FormState) </b>
-![FormState](https://imgur.com/a/oxwZi)
+![FormState](https://i.imgur.com/MzPQQxN.jpg)
 
 In this state the user has to fill in his or her details to participate in the tour.
 After submitting the data, the user will see a video where the tour is explained. 
